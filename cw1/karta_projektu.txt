@@ -1,10 +1,27 @@
-Wizja:
+Wizja Aplikacja webowa, posiadająca mapę wszystkich dostępnych kebabów w mieście, wyświetlając przy tym opinie, oraz menu, pozwalając na ocenianie oraz dawanie własnych opinii.
 
-Wartość biznesowa:
+Wartość biznesowa - 
+	Udostępnienie platformy dla klientów w celu reklamowania ich produktów
 
-Zakres:
+Zakres - 
+	Podłączenie mapy
+	Panel opinii
+	Ranking na podstawie ocen
+	Panel menu restauracji
+	Wyszukiwanie restauracji na mapie	
+	
+	
+Role w projekcie - 
+	Programista backend
+	programista frontend
+	Project Manager
+	Test Manager
+	Technical Lead
 
-Role w projekcie:
-
-KPI - wskaźniki projektu:
-
+KPI - 
+	rozdzielenie ról w zespole
+	wyznaczenie deadline'u
+	stworzenie bazy danych
+	stworzenie aplikacji
+	przetestowanie aplikacji
+	wzdrożenie aplikacji
