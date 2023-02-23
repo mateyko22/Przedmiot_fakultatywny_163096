@@ -1,0 +1,12 @@
+Budżet (czas):
+200 godzin
+
+Cel projektu:
+Aplikacja webowa - mapa kebabów
+Aplikacja ma za zadanie pokazywać lokalizację lokali z kebabami w Olsztynie, ich menu oraz umożliwiać dodawanie i przeglądanie opinii o każdym z tych miejsc.
+
+Role w zespole:
+kierownik zespołu, 
+programista frontend,
+programista backend,
+tester
