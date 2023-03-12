@@ -1,0 +1,14 @@
+Aby stworzyć formularz rejestracyjny w aplikacji webowej, można wydzielić następujące zadania:
+	-Przygotowanie bazy danych
+	-Przygotować formularz z niezbędnymi danymi
+	-Zakodować formularz
+	-Przetestować formularz
+	-Dostosować interfejs
+
+Estymacja wydzielonych zadań:
+	- Przygotowanie bazy danych: 5-8h
+	- Przygotowanie formularz z niezbędnymi danymi: 5-8h
+	- Zakodowanie formularza: 10-15h
+	- Przetestowanie formularza: 3-6h
+	- Dostosowanie interfejsu: 8-12h
+	
